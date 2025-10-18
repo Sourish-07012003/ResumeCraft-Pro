@@ -29,5 +29,6 @@ A full-stack web application that allows users to **create, edit, preview, and d
 ---
 Approach:
 The system provides a secure user experience with login, registration, and logout functionality. Once logged in, users can edit and preview resumes in real-time. The module also allows users to download their resume as a PDF, providing a complete workflow from creation to export. The interface emphasizes clarity and usability with a header, logout button, and side-by-side editor/preview layout.
+---
 Contribution to the System:
 This module forms the core interactive interface. It ensures users can securely manage their sessions (login/logout/register), create resumes easily, visualize changes immediately, and download a polished PDF version. It enhances the system’s usability, security, and end-to-end functionality, making the resume-building process complete and professional.

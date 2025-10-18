@@ -1,4 +1,4 @@
-# Resume Dashboard
+# ResumeCraft-Pro
 
 A full-stack web application that allows users to **create, edit, preview, and download resumes** securely. It includes user authentication and PDF export functionality.
 
